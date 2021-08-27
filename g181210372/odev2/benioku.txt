@@ -1,0 +1,3 @@
+Verilen metin dosyasından (Kisiler.txt) '#' karakteri ile ayrılmış kişi bilgilerini(isim,yaş,boy) okuyan
+ardından kişinin boyuna göre AVL ağacına ekleyen ekledikten sonra da düğümün derinliğini ve yüksekliğini 
+stacklere ekleyen ve bu işlemler sonunda oluşan ağaçtaki düğümlerin verilerini ekrana yazan program.
